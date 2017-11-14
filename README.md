@@ -5,6 +5,7 @@ On the Energy Footprint of Mobile Testing Frameworks
 To run experiments:
 
 ```
+pip install -r requirements.txt
 python -m physalia_energy_tests.run
 ```
 
