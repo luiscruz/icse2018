@@ -1,6 +1,7 @@
 # ICSE 2018
 
-On the Energy Footprint of Mobile Testing Frameworks
+"On the Energy Footprint of Mobile Testing Frameworks"\\
+Paper submitted to the 40th International Conference on Software Engineering (ICSE 2018)
 
 To run experiments:
 
